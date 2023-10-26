@@ -5,7 +5,7 @@
 ### 1.Angry Professor
 
 
-  - [Problem](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true)
+  - [Problem](https://www.hackerrank.com/challenges/angry-professor/problem)
   - [Solution](/AngryProfessor.js)
   - Explanation: 
   This function, named `angryProfessor`, is designed to determine whether a professor will cancel a class or not based on the attendance of students. Let's break down how it works:
@@ -46,7 +46,7 @@ In summary, this function takes in the minimum required attendance (`k`) and an 
   
 ### 2.Bon Appetit
 
-  - [Problem](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true)
+  - [Problem](https://www.hackerrank.com/challenges/bon-appetit/problem)
   - [Solution](/BonAppetit.c)
   - Explanation: 
     The `bonAppetit` function calculates how much money one person should pay for a meal, taking into account that they want to split the bill with their friends. The function takes four parameters:
@@ -74,7 +74,7 @@ So, in summary, the function helps determine whether a person's initial contribu
 
 ### 3.Cats And Mouse
 
-  - [Problem](https://www.hackerrank.com/challenges/cat-and-mouse/problem?isFullScreen=true)
+  - [Problem](https://www.hackerrank.com/challenges/cat-and-mouse/problem)
   - [Solution](/CatsAndMouse.c)
   - Explanation: 
 1. `abs(z-x)` calculates the absolute difference between the position of Cat A (at `x`) and the position of the mouse (at `z`).
@@ -93,7 +93,7 @@ So, the function essentially determines which of the two cats will catch the mou
 
 ### 4.Compare The Triplets
 
-  - [Problem](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)
+  - [Problem](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
   - [Solution](/CompareTheTriplets.c)
   - Explanation: 
  `compareTriplets`function compare two sets of integer values and determine the number of elements that are greater in one set compared to the other. The function takes as input two arrays, `a` and `b`, each of which represents a set of values. It also takes two integers, `a_count` and `b_count`, which specify the number of elements in each array. Finally, it takes a pointer to an integer, `result_count`, which will be used to store the number of elements in the result array.
@@ -121,7 +121,7 @@ In summary, this function takes two arrays, compares their elements, and calcula
 
 ### 5.Diagonal Difference
 
-  - [Problem](https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true)
+  - [Problem](https://www.hackerrank.com/challenges/diagonal-difference/problem)
   - [Solution](/DiagonalDifference.c)
   - Explanation: 
  The `diagonalDifference` function calculates the absolute difference between the sums of two types of diagonals in a 2D array, typically representing a square matrix. Let's break down the function step by step:
@@ -172,7 +172,7 @@ In summary, this function takes a square 2D array and calculates the absolute di
 
 ### 6.Divisible Sum Pairs
 
-  - [Problem](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true)
+  - [Problem](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)
   - [Solution](/DivisibleSumPairs.js)
   - Explanation: 
 
@@ -198,7 +198,7 @@ In summary, this function counts pairs of elements in an array such that the sum
 
 ### 7.Find The Median
 
-  - [Problem](https://www.hackerrank.com/challenges/find-the-median/problem?isFullScreen=true)
+  - [Problem](https://www.hackerrank.com/challenges/find-the-median/problem)
   - [Solution](/FindTheMedian.js)
   - Explanation: 
     The`findMedian` function find and return the median value of an array of numbers. The median is the middle value of a dataset when it is ordered. Here's a step-by-step explanation of how the function works:
@@ -215,7 +215,7 @@ In summary, this function counts pairs of elements in an array such that the sum
 
 ### 8.Flipping Bits
 
-  - [Problem](https://www.hackerrank.com/challenges/flipping-bits/problem?isFullScreen=true)
+  - [Problem](https://www.hackerrank.com/challenges/flipping-bits/problem)
   - [Solution](/FlippingBits.c)
   - Explanation: 
     The function `flippingBits` takes a single argument `n`, which is a long integer, and it returns the result of flipping all the bits in the binary representation of `n`. Let's break down how it works:
@@ -232,7 +232,7 @@ This function can be used to "flip" the bits of a binary number, effectively cha
 
 ### 9.Migratory Birds
 
-  - [Problem](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true)
+  - [Problem](https://www.hackerrank.com/challenges/migratory-birds/problem)
   - [Solution](/MigratoryBirds.js)
   - Explanation: 
   This `migratoryBirds(arr)`function find and return the most common type of bird based on an array of bird sightings. It uses a counting approach to determine which bird type appears most frequently in the array. Here's a step-by-step explanation of how it works:
@@ -258,7 +258,7 @@ The purpose of this function is to determine the most common bird type in a give
 
 ### 10.Strange Advertising
 
-  - [Problem](https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true)
+  - [Problem](https://www.hackerrank.com/challenges/strange-advertising/problem)
   - [Solution](/StrangeAdvertising.js)
   - Explanation: 
     The`viralAdvertising(n)` function calculates the number of people who "like" a product or service through a viral advertising campaign, given a certain number of days `n`. The function simulates how advertising spreads through a network of people, with each person exposed to the product or service sharing it with others.
