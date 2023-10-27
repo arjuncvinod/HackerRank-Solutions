@@ -276,7 +276,8 @@ Here's a step-by-step explanation of the function:
 
 4. `rec = Math.floor(rec / 2) * 3;`: This line updates the `rec` variable for the next day. It calculates how many people will be exposed to the ad on the following day. 
    - `rec / 2` represents the number of people who saw the ad on the current day and shared it with others (assuming each person shares it with exactly 2 others, which is why it's divided by 2).
-   - Multiplying by 3 simulates the idea that each person who saw the ad on the current day shared it with 3 new people on the next day. 
+   - Multiplying by 3 simulates the idea that each person who saw the ad on the current day shared it with 3 new people on the next day.
+   - 
 
 5. The loop continues for `n` days, updating `like` and `rec` each day.
 
